@@ -1,0 +1,1 @@
+This project creates a to-do list that organizes your activities and allows you to cancel them out once done.
